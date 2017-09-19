@@ -10,4 +10,5 @@ for a0 in range(t):
     else :
         result = ((n3 + 1)*n3//2)*3 + ((n5+1)*n5//2)*5 - ((n15+1)*n15//2)*15
 
+
     print(int(result))
